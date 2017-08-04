@@ -1,0 +1,12 @@
+C:\Users\elmah\OneDrive\Documents\VS_Projects\HF_DesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\elmah\OneDrive\Documents\VS_Projects\HF_DesignPatterns\State\bin\Debug\State.exe
+C:\Users\elmah\OneDrive\Documents\VS_Projects\HF_DesignPatterns\State\bin\Debug\State.pdb
+C:\Users\elmah\OneDrive\Documents\VS_Projects\HF_DesignPatterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\elmah\OneDrive\Documents\VS_Projects\HF_DesignPatterns\State\obj\Debug\State.exe
+C:\Users\elmah\OneDrive\Documents\VS_Projects\HF_DesignPatterns\State\obj\Debug\State.pdb
+D:\GitHub\HF_DesignPatterns\State\bin\Debug\State.exe.config
+D:\GitHub\HF_DesignPatterns\State\bin\Debug\State.exe
+D:\GitHub\HF_DesignPatterns\State\bin\Debug\State.pdb
+D:\GitHub\HF_DesignPatterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+D:\GitHub\HF_DesignPatterns\State\obj\Debug\State.exe
+D:\GitHub\HF_DesignPatterns\State\obj\Debug\State.pdb
