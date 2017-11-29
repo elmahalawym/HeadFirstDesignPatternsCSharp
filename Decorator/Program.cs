@@ -11,7 +11,7 @@ namespace Decorator
     {
         static void Main(string[] args)
         {
-            var beverage = new Espresso();
+            Beverage beverage = new Espresso();
             Console.WriteLine(beverage);
 
             Beverage beverage2 = new DarkRoast();

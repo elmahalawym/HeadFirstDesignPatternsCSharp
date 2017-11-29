@@ -14,7 +14,7 @@ namespace Decorator.Starbuzz
 
         public override string ToString()
         {
-            return $"{Description} {Cost()}";
+            return $"{Description} ${Cost()}";
         }
     }
 }
